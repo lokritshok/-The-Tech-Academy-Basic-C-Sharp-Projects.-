@@ -1,0 +1,7 @@
+C:\Users\shokv\source\repos\ACCOUNTING SYSTEM\ACCOUNTING SYSTEM\bin\Debug\ACCOUNTING SYSTEM.exe.config
+C:\Users\shokv\source\repos\ACCOUNTING SYSTEM\ACCOUNTING SYSTEM\bin\Debug\ACCOUNTING SYSTEM.exe
+C:\Users\shokv\source\repos\ACCOUNTING SYSTEM\ACCOUNTING SYSTEM\bin\Debug\ACCOUNTING SYSTEM.pdb
+C:\Users\shokv\source\repos\ACCOUNTING SYSTEM\ACCOUNTING SYSTEM\obj\Debug\ACCOUNTING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\shokv\source\repos\ACCOUNTING SYSTEM\ACCOUNTING SYSTEM\obj\Debug\ACCOUNTING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\shokv\source\repos\ACCOUNTING SYSTEM\ACCOUNTING SYSTEM\obj\Debug\ACCOUNTING SYSTEM.exe
+C:\Users\shokv\source\repos\ACCOUNTING SYSTEM\ACCOUNTING SYSTEM\obj\Debug\ACCOUNTING SYSTEM.pdb

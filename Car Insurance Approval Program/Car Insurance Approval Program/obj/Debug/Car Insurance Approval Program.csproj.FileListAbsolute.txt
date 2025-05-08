@@ -1,0 +1,7 @@
+C:\Users\shokv\source\repos\Car Insurance Approval Program\Car Insurance Approval Program\bin\Debug\Car Insurance Approval Program.exe.config
+C:\Users\shokv\source\repos\Car Insurance Approval Program\Car Insurance Approval Program\bin\Debug\Car Insurance Approval Program.exe
+C:\Users\shokv\source\repos\Car Insurance Approval Program\Car Insurance Approval Program\bin\Debug\Car Insurance Approval Program.pdb
+C:\Users\shokv\source\repos\Car Insurance Approval Program\Car Insurance Approval Program\obj\Debug\Car Insurance Approval Program.csproj.AssemblyReference.cache
+C:\Users\shokv\source\repos\Car Insurance Approval Program\Car Insurance Approval Program\obj\Debug\Car Insurance Approval Program.csproj.CoreCompileInputs.cache
+C:\Users\shokv\source\repos\Car Insurance Approval Program\Car Insurance Approval Program\obj\Debug\Car Insurance Approval Program.exe
+C:\Users\shokv\source\repos\Car Insurance Approval Program\Car Insurance Approval Program\obj\Debug\Car Insurance Approval Program.pdb

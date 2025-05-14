@@ -1,0 +1,7 @@
+C:\Users\shokv\source\repos\Boolean Logic Assignment- Model Answer\Boolean Logic Assignment- Model Answer\bin\Debug\Boolean Logic Assignment- Model Answer.exe.config
+C:\Users\shokv\source\repos\Boolean Logic Assignment- Model Answer\Boolean Logic Assignment- Model Answer\bin\Debug\Boolean Logic Assignment- Model Answer.exe
+C:\Users\shokv\source\repos\Boolean Logic Assignment- Model Answer\Boolean Logic Assignment- Model Answer\bin\Debug\Boolean Logic Assignment- Model Answer.pdb
+C:\Users\shokv\source\repos\Boolean Logic Assignment- Model Answer\Boolean Logic Assignment- Model Answer\obj\Debug\Boolean Logic Assignment- Model Answer.csproj.AssemblyReference.cache
+C:\Users\shokv\source\repos\Boolean Logic Assignment- Model Answer\Boolean Logic Assignment- Model Answer\obj\Debug\Boolean Logic Assignment- Model Answer.csproj.CoreCompileInputs.cache
+C:\Users\shokv\source\repos\Boolean Logic Assignment- Model Answer\Boolean Logic Assignment- Model Answer\obj\Debug\Boolean Logic Assignment- Model Answer.exe
+C:\Users\shokv\source\repos\Boolean Logic Assignment- Model Answer\Boolean Logic Assignment- Model Answer\obj\Debug\Boolean Logic Assignment- Model Answer.pdb

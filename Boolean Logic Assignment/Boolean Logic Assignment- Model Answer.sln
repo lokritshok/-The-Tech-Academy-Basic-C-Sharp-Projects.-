@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boolean Logic Assignment- Model Answer", "Boolean Logic Assignment- Model Answer\Boolean Logic Assignment- Model Answer.csproj", "{B5D541F3-95BE-4C00-93F7-25AD2ACE7DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5D541F3-95BE-4C00-93F7-25AD2ACE7DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5D541F3-95BE-4C00-93F7-25AD2ACE7DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5D541F3-95BE-4C00-93F7-25AD2ACE7DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5D541F3-95BE-4C00-93F7-25AD2ACE7DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA786547-824C-4C79-870F-F24872183484}
+	EndGlobalSection
+EndGlobal

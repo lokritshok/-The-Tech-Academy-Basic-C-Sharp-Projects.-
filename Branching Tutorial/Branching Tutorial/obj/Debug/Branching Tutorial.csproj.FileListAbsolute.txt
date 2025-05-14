@@ -1,0 +1,7 @@
+C:\Users\shokv\source\repos\Branching Tutorial\Branching Tutorial\bin\Debug\Branching Tutorial.exe.config
+C:\Users\shokv\source\repos\Branching Tutorial\Branching Tutorial\bin\Debug\Branching Tutorial.exe
+C:\Users\shokv\source\repos\Branching Tutorial\Branching Tutorial\bin\Debug\Branching Tutorial.pdb
+C:\Users\shokv\source\repos\Branching Tutorial\Branching Tutorial\obj\Debug\Branching Tutorial.csproj.AssemblyReference.cache
+C:\Users\shokv\source\repos\Branching Tutorial\Branching Tutorial\obj\Debug\Branching Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\shokv\source\repos\Branching Tutorial\Branching Tutorial\obj\Debug\Branching Tutorial.exe
+C:\Users\shokv\source\repos\Branching Tutorial\Branching Tutorial\obj\Debug\Branching Tutorial.pdb

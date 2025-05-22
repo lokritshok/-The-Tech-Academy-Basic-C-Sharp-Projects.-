@@ -1,0 +1,7 @@
+C:\Users\shokv\source\repos\Console App Array Assignment -Model Answer\Console App Array Assignment -Model Answer\obj\Debug\Console App Array Assignment -Model Answer.csproj.AssemblyReference.cache
+C:\Users\shokv\source\repos\Console App Array Assignment -Model Answer\Console App Array Assignment -Model Answer\obj\Debug\Console App Array Assignment -Model Answer.csproj.CoreCompileInputs.cache
+C:\Users\shokv\source\repos\Console App Array Assignment -Model Answer\Console App Array Assignment -Model Answer\bin\Debug\Console App Array Assignment -Model Answer.exe.config
+C:\Users\shokv\source\repos\Console App Array Assignment -Model Answer\Console App Array Assignment -Model Answer\bin\Debug\Console App Array Assignment -Model Answer.exe
+C:\Users\shokv\source\repos\Console App Array Assignment -Model Answer\Console App Array Assignment -Model Answer\bin\Debug\Console App Array Assignment -Model Answer.pdb
+C:\Users\shokv\source\repos\Console App Array Assignment -Model Answer\Console App Array Assignment -Model Answer\obj\Debug\Console App Array Assignment -Model Answer.exe
+C:\Users\shokv\source\repos\Console App Array Assignment -Model Answer\Console App Array Assignment -Model Answer\obj\Debug\Console App Array Assignment -Model Answer.pdb

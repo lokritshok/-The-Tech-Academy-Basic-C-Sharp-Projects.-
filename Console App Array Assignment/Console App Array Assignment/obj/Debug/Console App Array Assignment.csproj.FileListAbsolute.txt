@@ -1,0 +1,7 @@
+C:\Users\shokv\source\repos\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.exe.config
+C:\Users\shokv\source\repos\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.exe
+C:\Users\shokv\source\repos\Console App Array Assignment\Console App Array Assignment\bin\Debug\Console App Array Assignment.pdb
+C:\Users\shokv\source\repos\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.csproj.AssemblyReference.cache
+C:\Users\shokv\source\repos\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.csproj.CoreCompileInputs.cache
+C:\Users\shokv\source\repos\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.exe
+C:\Users\shokv\source\repos\Console App Array Assignment\Console App Array Assignment\obj\Debug\Console App Array Assignment.pdb

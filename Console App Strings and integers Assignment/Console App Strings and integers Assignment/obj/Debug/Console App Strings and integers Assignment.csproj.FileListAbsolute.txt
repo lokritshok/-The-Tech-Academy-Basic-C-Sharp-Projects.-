@@ -1,0 +1,7 @@
+C:\Users\shokv\source\repos\Console App Strings and integers Assignment\Console App Strings and integers Assignment\obj\Debug\Console App Strings and integers Assignment.csproj.AssemblyReference.cache
+C:\Users\shokv\source\repos\Console App Strings and integers Assignment\Console App Strings and integers Assignment\obj\Debug\Console App Strings and integers Assignment.csproj.CoreCompileInputs.cache
+C:\Users\shokv\source\repos\Console App Strings and integers Assignment\Console App Strings and integers Assignment\bin\Debug\Console App Strings and integers Assignment.exe.config
+C:\Users\shokv\source\repos\Console App Strings and integers Assignment\Console App Strings and integers Assignment\bin\Debug\Console App Strings and integers Assignment.exe
+C:\Users\shokv\source\repos\Console App Strings and integers Assignment\Console App Strings and integers Assignment\bin\Debug\Console App Strings and integers Assignment.pdb
+C:\Users\shokv\source\repos\Console App Strings and integers Assignment\Console App Strings and integers Assignment\obj\Debug\Console App Strings and integers Assignment.exe
+C:\Users\shokv\source\repos\Console App Strings and integers Assignment\Console App Strings and integers Assignment\obj\Debug\Console App Strings and integers Assignment.pdb

@@ -1,0 +1,7 @@
+C:\Users\shokv\source\repos\Method Class Assignment Submission\Method Class Assignment Submission\bin\Debug\Method Class Assignment Submission.exe.config
+C:\Users\shokv\source\repos\Method Class Assignment Submission\Method Class Assignment Submission\bin\Debug\Method Class Assignment Submission.exe
+C:\Users\shokv\source\repos\Method Class Assignment Submission\Method Class Assignment Submission\bin\Debug\Method Class Assignment Submission.pdb
+C:\Users\shokv\source\repos\Method Class Assignment Submission\Method Class Assignment Submission\obj\Debug\Method Class Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\shokv\source\repos\Method Class Assignment Submission\Method Class Assignment Submission\obj\Debug\Method Class Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\shokv\source\repos\Method Class Assignment Submission\Method Class Assignment Submission\obj\Debug\Method Class Assignment Submission.exe
+C:\Users\shokv\source\repos\Method Class Assignment Submission\Method Class Assignment Submission\obj\Debug\Method Class Assignment Submission.pdb

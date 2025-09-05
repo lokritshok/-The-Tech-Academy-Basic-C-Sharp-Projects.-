@@ -1,0 +1,10 @@
+C:\Users\shokv\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\shokv\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\shokv\source\repos\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\shokv\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\shokv\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\shokv\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\shokv\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\shokv\source\repos\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.Up2Date
+C:\Users\shokv\source\repos\TwentyOne\TwentyOne\bin\Debug\Cassinnoh.dll
+C:\Users\shokv\source\repos\TwentyOne\TwentyOne\bin\Debug\Cassinnoh.pdb

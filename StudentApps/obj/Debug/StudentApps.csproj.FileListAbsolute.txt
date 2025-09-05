@@ -1,0 +1,13 @@
+C:\Users\shokv\source\repos\StudentApps\StudentApps\bin\Debug\StudentApps.exe.config
+C:\Users\shokv\source\repos\StudentApps\StudentApps\bin\Debug\StudentApps.exe
+C:\Users\shokv\source\repos\StudentApps\StudentApps\bin\Debug\StudentApps.pdb
+C:\Users\shokv\source\repos\StudentApps\StudentApps\bin\Debug\EntityFramework.dll
+C:\Users\shokv\source\repos\StudentApps\StudentApps\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shokv\source\repos\StudentApps\StudentApps\bin\Debug\EntityFramework.xml
+C:\Users\shokv\source\repos\StudentApps\StudentApps\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shokv\source\repos\StudentApps\StudentApps\obj\Debug\StudentApps.csproj.AssemblyReference.cache
+C:\Users\shokv\source\repos\StudentApps\StudentApps\obj\Debug\StudentApps.csproj.CoreCompileInputs.cache
+C:\Users\shokv\source\repos\StudentApps\StudentApps\obj\Debug\StudentA.0A9C5E0B.Up2Date
+C:\Users\shokv\source\repos\StudentApps\StudentApps\obj\Debug\StudentApps.exe
+C:\Users\shokv\source\repos\StudentApps\StudentApps\obj\Debug\StudentApps.pdb
+C:\Users\shokv\source\repos\StudentApps\StudentApps\obj\Debug\StudentApps.exe.config

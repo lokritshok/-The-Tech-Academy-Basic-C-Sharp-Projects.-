@@ -11,4 +11,4 @@ PROJECTS:
 
 .TwentyOne: This is a project that involved the creating of the game of blackjack using intermediate C# programming. This included the creation of card objects, players, dealer and code logics that represented real life game environment and user experience.
 
-CaarInsurance: This project duels in a seperate sister repository due to its large storage requirements. It is a Car Insurance project that featured developing code logics that calculated a quote for intended clients based on the information provided by the client in the quote form. It harnessed the power and might of Visual Studio and Microsoft.EntityFrameworkCore
+.CaarInsurance: This project duels in a seperate sister repository due to its large storage requirements. It is an MVC web application Car Insurance project that featured developing code logics that calculated a quote for intended clients based on the information provided by the client in the quote form. It harnessed the power and might of Visual Studio and Microsoft.EntityFrameworkCore
